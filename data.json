@@ -1,0 +1,41 @@
+[
+    {
+        "name": "React-Native",
+        "imgUrl": "https://miro.medium.com/max/1000/1*GkR93AAlILkmE_3QQf88Ug.png",
+        "description": "React Native is an open-source mobile application framework created by Facebook. It is used to develop applications for Android, iOS, Web and UWP by enabling developers to use React along with native platform capabilities.",
+        "videos": [
+            {
+                "title": "React Native Tutorial for Beginners - Getting Started",
+                "id": "6ZnfsJ6mM5c",
+                "author": "Academind"
+            },
+            {
+                "title": "React Native Web Full App Tutorial - Build a Workout App for iOS, Android, and Web",
+                "id": "_CBYbEGvxYY",
+                "author": "freeCodeCamp.org"
+            },
+            {
+                "title": "React Native Crash Course",
+                "id": "mkualZPRZCs",
+                "author": "Traversy Media"
+            }
+        ]
+    },
+    {
+        "name": "Android-Studio",
+        "imgUrl": "https://www.theinquirer.net/w-images/e5bc369f-0065-4b09-9fc4-4e7562a228a0/0/androidstudio-580x358.png",
+        "description": "Android Studio is the official integrated development environment for Google's Android operating system, built on JetBrains' IntelliJ IDEA software and designed specifically for Android development. It is available for download on Windows, macOS and Linux based operating systems.",
+        "videos": [
+            {
+                "title": "Android and Android Studio: Getting Started",
+                "id": "Z98hXV9GmzY",
+                "author": "Android Developers"
+            },
+            {
+                "title": "Android Studio Tutorial For Beginners - 1 | Android Tutorial | Android App Development | Edureka",
+                "id": "ZLNO2c7nqjw",
+                "author": "edureka!"
+            }
+        ]
+    }
+]
